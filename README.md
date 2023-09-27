@@ -47,9 +47,9 @@ Survey of watermarking for (large) language models
 
 ---
 
-- 2022 **DeepHider: A Covert NLP Watermarking Framework Based on Multi-task Learning** 
-  -paper: https://arxiv.org/ftp/arxiv/papers/2208/2208.04676.pdf
-  -code: 
+- 20221118 **DeepHider: A Covert NLP Watermarking Framework Based on Multi-task Learning** (Dai) Hainan Univerdsity
+  - paper: https://arxiv.org/ftp/arxiv/papers/2208/2208.04676.pdf (arXiv)
+  - code: 
 
 - 20230210 **Watermarking Pre-trained Language Models with Backdooring** (Gu) Fudan University
   - paper: https://arxiv.org/pdf/2210.07543.pdf (arXiv)
