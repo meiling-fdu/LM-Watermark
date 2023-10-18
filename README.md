@@ -50,7 +50,6 @@ Survey of watermarking for (large) language models
 - 2022 **TextBack: Watermarking Text Classifiers using Backdooring** (Nandish Chattopadhyay) Nandish Chattopadhyay
   - paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9996658 (25th Euromicro Conference on Digital System Design 2022) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133889992)
   - code:
-  - Crack: https://blog.csdn.net/qq_36332660/article/details/133889992
 
 - 2023 **PLMmark: A Secure and Robust Black-Box Watermarking Framework for Pre-trained Language Models** ([Peixuan Li](https://solour-lfq.github.io/)) Shanghai Jiao Tong University 
   - paper: https://ojs.aaai.org/index.php/AAAI/article/view/26750 (AAAI 2023)
@@ -93,7 +92,7 @@ Survey of watermarking for (large) language models
   - paper: https://arxiv.org/ftp/arxiv/papers/2208/2208.04676.pdf (arXiv)
   - code: 
 
-- 20230210 **Watermarking Pre-trained Language Models with Backdooring** (Gu) Fudan University
+- 20230210 **Watermarking Pre-trained Language Models with Backdooring** (Chenxi Gu) Fudan University
   - paper: https://arxiv.org/pdf/2210.07543.pdf (arXiv)
   - code:
 
@@ -109,7 +108,7 @@ Survey of watermarking for (large) language models
   - paper: https://arxiv.org/pdf/2305.13257.pdf
   - code: 
 
-- 20230524 **Who Wrote this Code? Watermarking for Code Generation** Taehyun Lee Seoul National University
+- 20230524 **Who Wrote this Code? Watermarking for Code Generation** (Taehyun Lee) Seoul National University
   - paper: https://arxiv.org/pdf/2305.15060.pdf (arXiv)
   - code: 
 
