@@ -1,9 +1,11 @@
 # LM-Watermark
 Survey of watermarking for (large) language models
 
+---
+
 ## White-Box Watermark
 
-- 2021 **Adversarial Watermarking Transformer - Towards Tracing Text Provenance with Data Hiding** ()
+- 2021 **Adversarial Watermarking Transformer - Towards Tracing Text Provenance with Data Hiding** (Sahar Abdelnabi) CISPA Helmholtz Center for Information Security
   - paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9519400 (IEEE Symposium on Security and Privacy 2021)
   - code: https://github.com/S-Abdelnabi/awt
 
@@ -15,7 +17,7 @@ Survey of watermarking for (large) language models
   - paper: https://aclanthology.org/2022.aacl-main.8.pdf (AACL-IJCNLP 2022)
   - code: https://github.com/zhiqin1998/RecurrentIPR
 
-- 2022 **Distillation-Resistant Watermarking for Model Protection in NLP** (Zhao) UC Santa Barbara
+- 2022 **Distillation-Resistant Watermarking for Model Protection in NLP** (Xuandong Zhao) UC Santa Barbara
   - paper: https://aclanthology.org/2022.findings-emnlp.370.pdf (EMNLP Findings 2022)
   - code: https://github.com/XuandongZhao/DRW
 
@@ -27,16 +29,16 @@ Survey of watermarking for (large) language models
   - paper: https://aclanthology.org/2023.acl-long.117.pdf (ACL 2023)
   - code: https://github.com/bangawayoo/nlp-watermarking
 
-- 2023 **Protecting Language Generation Models via Invisible Watermarking** (Zhao) UC Santa Barbara
+- 2023 **Protecting Language Generation Models via Invisible Watermarking** (Xuandong Zhao) UC Santa Barbara
   - paper: http://proceedings.mlr.press/v202/zhao23i/zhao23i.pdf (ICML 2023)
   - code: https://github.com/XuandongZhao/Ginsew
 
-- 2023 **Provable Robust Watermarking for AI-Generated Text** (Zhao) UC Santa Barbara
+- 2023 **Provable Robust Watermarking for AI-Generated Text** (Xuandong Zhao) UC Santa Barbara
   - paper: https://openreview.net/pdf?id=Bwz0fy9Hc9 (ICML Workshop 2023)
   - code: https://github.com/XuandongZhao/GPTWatermark 
   
-- 2023 **An Effective Framework for Intellectual Property Protection of NLG Models** (Li) Shanghai University
-  - paper: https://www.mdpi.com/2073-8994/15/6/1287 (ACM Multimedia 2023)
+- 2023 **An Effective Framework for Intellectual Property Protection of NLG Models** (Mingjie Li) Shanghai University
+  - paper: https://www.mdpi.com/2073-8994/15/6/1287 (Symmetry 2023)
   - code: 
 
 ## Black-Box Watermark
@@ -50,7 +52,7 @@ Survey of watermarking for (large) language models
   - code:
   - Crack: https://blog.csdn.net/qq_36332660/article/details/133889992
 
-- 2023 **PLMmark: A Secure and Robust Black-Box Watermarking Framework for Pre-trained Language Models** ([Li](https://solour-lfq.github.io/)) Shanghai Jiao Tong University 
+- 2023 **PLMmark: A Secure and Robust Black-Box Watermarking Framework for Pre-trained Language Models** ([Peixuan Li](https://solour-lfq.github.io/)) Shanghai Jiao Tong University 
   - paper: https://ojs.aaai.org/index.php/AAAI/article/view/26750 (AAAI 2023)
   - code:  
 
@@ -81,8 +83,9 @@ Survey of watermarking for (large) language models
   - paper: https://proceedings.mlr.press/v202/kirchenbauer23a/kirchenbauer23a.pdf (ICML 2023)
   - code: https://github.com/jwkirchenbauer/lm-watermarking
 
-- 2023 **A novel watermarking framework for intellectual property protection of NLG APIs** (Li) Shanghai University
- - paper: https://www.sciencedirect.com/science/article/pii/S0925231223008238 (NeuroComputing 2023) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133893004)
+- 2023 **A novel watermarking framework for intellectual property protection of NLG APIs** (Mingjie Li) Shanghai University
+  - paper: https://www.sciencedirect.com/science/article/pii/S0925231223008238 (NeuroComputing 2023) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133893004)
+  - code:
 
 ---
 
