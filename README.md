@@ -52,7 +52,7 @@ Survey of watermarking for (large) language models
   - code:
 
 - 2023 **PLMmark: A Secure and Robust Black-Box Watermarking Framework for Pre-trained Language Models** ([Peixuan Li](https://solour-lfq.github.io/)) Shanghai Jiao Tong University 
-  - paper: https://ojs.aaai.org/index.php/AAAI/article/view/26750 (AAAI 2023)
+  - paper: https://ojs.aaai.org/index.php/AAAI/article/view/26750 (AAAI 2023) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133929482)
   - code:  
 
 - 2023 **Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark** (Peng) USTC
