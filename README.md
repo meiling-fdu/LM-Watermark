@@ -75,7 +75,7 @@ Survey of watermarking for (large) language models
   - code: https://github.com/xlhex/NLG_api_watermark
 
 - 2022 **CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks** (Xuanli He) University College London
-  - paper: https://openreview.net/pdf?id=L7P3IvsoUXY (NeurIPS 2022)
+  - paper: https://openreview.net/pdf?id=L7P3IvsoUXY (NeurIPS 2022) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133946267)
   - code: https://github.com/xlhex/cater_neurips
 
 - 2023 **A Watermark for Large Language Models** (John Kirchenbauer) University of Maryland
