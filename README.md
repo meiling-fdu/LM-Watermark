@@ -10,7 +10,7 @@ Survey of watermarking for (large) language models
   - code: https://github.com/S-Abdelnabi/awt
 
 - 2021 **Protect, show, attend and tell- Empowering image captioning models with ownership protection** (Jian Han Lim) Universiti Malaya
-  - paper: https://www.sciencedirect.com/science/article/pii/S0031320321004659 (Pattern Recognition 2021)
+  - paper: https://www.sciencedirect.com/science/article/pii/S0031320321004659 (Pattern Recognition 2021) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133977706)
   - code: https://github.com/jianhanlim/ipr-imagecaptioning
 
 - 2022 **An Embarrassingly Simple Approach for Intellectual Property Rights Protection on Recurrent Neural Networks** (Zhi Qin Tan) Universiti Malaya
@@ -85,6 +85,10 @@ Survey of watermarking for (large) language models
 - 2023 **A novel watermarking framework for intellectual property protection of NLG APIs** (Mingjie Li) Shanghai University
   - paper: https://www.sciencedirect.com/science/article/pii/S0925231223008238 (NeuroComputing 2023) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133893004)
   - code:
+
+- 2023 **COSYWA: Enhancing Semantic Integrity in Watermarking Natural Language Generation** (Junjie Fang) Xiamen University
+  - paper: https://dl.acm.org/doi/abs/10.1007/978-3-031-44693-1_55 (NLPCC 2023) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133972765)
+  - code: 
 
 ---
 
